@@ -11,13 +11,14 @@ body{
 h1{
     text-align: center;
 }
-article{
+.card{
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 40px;
     margin-right: 40px;
     border: 3px solid black;
     padding: 20px;
+    min-height: 150px;
 }
 h2{
     text-align: justify;
