@@ -23,6 +23,8 @@ h2{
     text-align: justify;
 }
 .testo-articolo{
-    text-align: justify;
+    text-align: left;
 }
-
+.credits{
+    margin: 10px;
+}
