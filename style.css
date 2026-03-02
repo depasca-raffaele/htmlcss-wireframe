@@ -8,3 +8,7 @@ body{
     margin: 0 auto;
     border: 2px dashed black;
 }
+h1{
+    text-align: center;
+}
+
