@@ -28,3 +28,9 @@ h2{
 .credits{
     margin: 10px;
 }
+hr{
+    border: none;
+    height: 3px;
+    color: black;
+    background-color: black;
+}
