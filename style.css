@@ -19,4 +19,10 @@ article{
     border: 3px solid black;
     padding: 20px;
 }
+h2{
+    text-align: justify;
+}
+p{
+    text-align: justify;
+}
 
