@@ -11,4 +11,12 @@ body{
 h1{
     text-align: center;
 }
+article{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 3px solid black;
+    padding: 20px;
+}
 
